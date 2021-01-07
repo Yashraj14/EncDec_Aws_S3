@@ -1,0 +1,6 @@
+UploadObject.class
+Credentials.class
+CreateBucket.class
+S3Constructor.class
+ServerSideEncryptionUsingKMS.class
+ClientSideEncryptionUsingKMS.class
